@@ -2,6 +2,8 @@
 
 Awesome BSD systems and BSD projects
 
+* [FreeBSD Foundation](https://freebsdfoundation.org/)
+
 # License
 
 Copyright (c) 2023-2024 Mert Gör and contributors 
